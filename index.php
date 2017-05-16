@@ -85,13 +85,13 @@ function orderItem(itemID){
 </script>
 <html>
 <head>
-	<title>Microservices Sample</title>
+	<title>CDL Openday Demo</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 	<link rel="stylesheet" href="style.css">
 </head>
 <table class="headerTable">
 	<tr>
-		<td><span class="pageTitle"><h1>Microservices Sample</h1></span></td> 
+		<td><span class="pageTitle"><h1>CDL Openday Demo</h1></span></td> 
 	</tr>
 </table>
 <body onload="loadItems(items)">
@@ -100,6 +100,7 @@ function orderItem(itemID){
 	</div>
 	<div id="loading"><br>Loading...</div>
 	<a href="./autoLoadTest.html">Catalog Load Tester</a>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg" width=25% />
 </body>
 </html>
 
