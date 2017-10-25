@@ -100,9 +100,9 @@ function orderItem(itemID){
 	</div>
 	<div id="loading"><br>Loading...</div>
 	<a href="./autoLoadTest.html">Catalog Load Tester</a>
-	
+	<!--
 	<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg" width=25% />
-
+	-->
 </body>
 </html>
 
